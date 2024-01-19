@@ -1,7 +1,6 @@
 body{
     background-color: black;
 }
-
 .navegacion {
     border: 3px solid;
     border-radius: 50px;
@@ -22,3 +21,12 @@ body{
     color: white;
     text-decoration: underline;
 }
+
+section{
+    text-align: center;
+    color: aliceblue;
+}
+section a{
+    color: aliceblue;
+}
+

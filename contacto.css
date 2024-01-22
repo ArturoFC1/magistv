@@ -28,5 +28,33 @@ section{
 }
 section a{
     color: aliceblue;
+    display: inline-block; 
+    margin-right: 30px;
 }
+
+
+.redes a{
+    color: rgb(245, 248, 250);
+    display: inline-block; 
+    margin-right: 30px;
+    font-style: normal;
+    text-decoration: none;
+}
+
+#wa:hover{
+    color: greenyellow;
+    text-decoration: overline;
+
+}
+#fa:hover{
+    color: blue;
+    text-decoration: overline;
+
+}
+#in:hover{
+    color: mediumvioletred;
+    text-decoration: overline;
+
+}
+
 

@@ -18,13 +18,10 @@ body{
 .navegacion a:hover{
     color: white;
     text-decoration: underline;
+}
 
-}
-section{
-    text-align: center;
+section article{
     color: aliceblue;
-}
-h1{
-    font-size: 25px;
+    text-align: center;
 }
 

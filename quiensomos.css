@@ -22,3 +22,11 @@ body{
     color: white;
     text-decoration: underline;
 }
+.titulo, .titulo1{
+    text-align: center;
+    color: rgb(228, 233, 236);
+}
+
+.contenido{
+    color: aliceblue;
+}

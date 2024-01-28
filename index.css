@@ -10,18 +10,61 @@ body{
 }
 .navegacion a{
     color: rgb(22, 23, 24);
+    font-family: monospace;
     display: inline-block; 
     margin-right: 30px;
     font-style: normal;
+    font-size: 15px;
     text-decoration: none;
 }
 .navegacion a:hover{
     color: white;
     text-decoration: underline;
 }
-
 section article{
     color: aliceblue;
+}
+.imagenmagis{
+    margin-top: 1%;
+    width: 13%;
+    margin-left: 42%;
+    padding: 5px;
+}
+h1{
+    font-family:cursive;
+    font-size: 25px;
     text-align: center;
 }
+h2{
+    font-family:cursive;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+.info1 {
+    display: flex; /* Utilizar el modelo de caja flexible */
+    align-items: center;
+  }
+  
+  .info1 p {
+    flex: 1; /* Hacer que el párrafo ocupe todo el espacio disponible */
+    width: 60%;
+    margin-left: 5%;
+    color: rgb(8, 8, 8);
+    font-family: monospace;
+    font-size: 20px;
+    background-color: #FFD700;
+    border: solid;
+    border-radius: 30px;
+    padding: 40px;
+    text-align: justify;
+
+  }
+  
+  .info1 .imagenpeliculas {
+    width: 40%; /* Ajusta el ancho de la imagen según tus necesidades */
+    margin-left: 0%; /* Agregar espacio a la izquierda de la imagen para separarla del texto */
+  }
+
 

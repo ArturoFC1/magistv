@@ -31,12 +31,12 @@ section article{
     padding: 5px;
 }
 h1{
-    font-family:cursive;
+    font-family:monospace;
     font-size: 25px;
     text-align: center;
 }
 h2{
-    font-family:cursive;
+    font-family:monospace;
     font-size: 18px;
     text-align: center;
 }
@@ -53,7 +53,7 @@ h2{
     margin-left: 5%;
     color: rgb(8, 8, 8);
     font-family: monospace;
-    font-size: 20px;
+    font-size: 15px;
     background-color: #FFD700;
     border: solid;
     border-radius: 30px;
@@ -63,7 +63,7 @@ h2{
   }
   
   .info1 .imagenpeliculas {
-    width: 40%; /* Ajusta el ancho de la imagen según tus necesidades */
+    width: 25%; /* Ajusta el ancho de la imagen según tus necesidades */
     margin-left: 0%; /* Agregar espacio a la izquierda de la imagen para separarla del texto */
   }
 

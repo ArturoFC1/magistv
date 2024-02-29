@@ -29,3 +29,15 @@ nav a:hover{
     color:orange;
     text-decoration: overline;
 }
+
+section{
+    background-color:whitesmoke;
+}
+
+.descripcion{
+    position: relative;
+    top: 40px;
+    left: 50px;
+    width: 35%;
+
+}
